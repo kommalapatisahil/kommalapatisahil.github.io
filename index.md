@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+# Education 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Master of Science, Mechanical Engineering. 2019-2021
+University of Washington, Seattle, USA. 
 
-[Link to another page](./another-page.html).
+Bachelor of Technology, Mechanical Engineering. 2015-2019
+Mahindra Ecole Centrale, Hyderabad, India. 
 
-There should be whitespace between paragraphs.
+
