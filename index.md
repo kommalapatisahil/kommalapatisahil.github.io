@@ -1,15 +1,25 @@
 ---
 layout: default
 ---
-# Education 
 
-**Master of Science, Mechanical Engineering.** 2019-2021
+#who am i?#
+williams lab link
 
-University of Washington, Seattle, USA. 
+Current projects
+mpc, vortex - lab presetations
+
+Older projects
+koopman review, 
 
 
-**Bachelor of Technology, Mechanical Engineering.** 2015-2019
 
-Mahindra Ecole Centrale, Hyderabad, India. 
+Online activity
+medium, youtube, cse 180
+
+call for colloborations
+
+
+
+
 
 
