@@ -1,3 +1,4 @@
-suswagatham!
+సుస్వాగతము!
 
-Shoutout to [orderedlist](https://github.com/orderedlist), for the theme. 
+
+website theme by [orderedlist](https://github.com/orderedlist).
