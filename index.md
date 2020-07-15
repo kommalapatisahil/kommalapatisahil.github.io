@@ -6,8 +6,6 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 
 I love biking and hiking around the beautiful Pacific North West.
 
-
-
 # Current projects
 mpc, vortex - lab presetations
 
