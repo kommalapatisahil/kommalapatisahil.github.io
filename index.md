@@ -7,16 +7,29 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 I love biking and hiking around the beautiful Pacific North West.
 
 # Current projects
-mpc, vortex - lab presetations
+
+Markov Chain Monte Carlo Analysis to Autmate hairpin vortex Identification in Turbulent Boundary layer flow.
+Model Predictive Control to stabilize the wake of a rotating Cylinder using DMDc.
+
+<mpc, vortex - lab presetations>
 
 # My Research Online
-3 papers, 2 poster, 
+Papers.
+1. ANNs for Flow reconstruction. 
+2. Microfluidic mixer using Golden Ratio Spiral.
+3. Optimal positioning algorithm for controlling platoon wake.
+
+Posters.
+1. URS - fluid mixers. <ppt + poste>
+2. Vehicle control using Matlab. <poster>
 
 # Older projects
-koopman review, 
+1. koopman review for ME 599.
+
 
 # Online activity
-medium, youtube, cse 180
+you can find me on medium, youtube.
+this presentation I made to highligh covid and data science. cse 180
 
 # Call for colloborations
 I have a couple of Ideas on which I have been looking for more people to join me.
