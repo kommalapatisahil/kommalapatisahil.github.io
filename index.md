@@ -6,7 +6,6 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 
 I love biking and hiking around the beautiful Pacific North West.
 
-<insert hike photos>
 
 
 # Current projects
