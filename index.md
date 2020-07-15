@@ -2,21 +2,30 @@
 layout: default
 ---
 
-#who am i?#
-williams lab link
+I am a Master's student at the University of Washington (UW), studying Mechanical Engineering. My research is held at the intersection of Artificial Intelligence, Control Theory and Fluid Mechanics. I am currently a researcher at the Williams' Laboratory at the Aerospace department at UW, studying Hairpin structures in Turbulent Boundary layers using Bayesian methods. I was previously a research Intern at the Microfluidics Laboratory at IIT Bombay. Last quarter, I have also been a TA for for Paul Allen school of CSE at UW. 
 
-Current projects
+I love biking and hiking around the beautiful Pacific North West.
+
+
+# Current projects
 mpc, vortex - lab presetations
 
-Older projects
+# My Research Online
+3 papers, 2 poster, 
+
+# Older projects
 koopman review, 
 
-
-
-Online activity
+# Online activity
 medium, youtube, cse 180
 
-call for colloborations
+# Call for colloborations
+I have a couple of Ideas on which I have been looking for more people to join me.
+
+
+If you are Interested any of the above, reach out to me. Or, If it's reevant to my interests, tell me about your ideas and let's bring them to life. Or, just hit me up to talk about Politics and Philisophy! 
+
+
 
 
 
