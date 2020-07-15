@@ -3,3 +3,6 @@ description: Fluid Mechanics and Artificial Intelligence researcher at the Unive
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: http://example.com/download.zip
+  another_url: https://scholar.google.co.in/citations?hl=en&user=QqqnDkYAAAAJ
