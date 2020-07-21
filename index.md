@@ -8,11 +8,10 @@ I love biking and hiking around the beautiful Pacific North West.
 
 # Current projects which keep me busy:
 
-1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. I gave a talk reviewing my research. Here is the [PPT]() which I made for it.
+1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. I gave a talk reviewing my research. Here is the [PPT](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx) which I made for it.
 
 2. Using Model Predictive Control to stabilize the wake of a rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link]
 
-<mpc, vortex - lab presetations>
 
 # Check out my research published online!
 
@@ -22,13 +21,13 @@ I love biking and hiking around the beautiful Pacific North West.
 3. Introducing a problem encountered with Heterogenuous platoons and presenting one possible solution. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
 
 ## Posters.
-1. Fluid Mixers at Micro-scale. [PPT]()[Poster]()
-2. Vehicle control using Matlab. [Poster]
+1. Fluid Mixers at Micro-scale. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/MEC_URS_2018_Kommalapati_sahil.pdf)
+2. Vehicle control using Matlab. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_MEC_URS_2018.pdf)
  
 # Older projects
 
-1. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF]()
-2. Here is my review of Koopman Operator theory in continuous spectrum. [PDF]()
+1. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_SE422_Report(2).pdf)
+2. Here is my review of Koopman Operator theory in continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
 
 # Online activity
 you can find me on medium, youtube.
