@@ -15,9 +15,9 @@ Model Predictive Control to stabilize the wake of a rotating Cylinder using DMDc
 
 # My Research Online
 Papers.
-1. Using Artificial Neural Networks (ANNs) to learn the Governing Partial Differential Equations of Fluid flows. **IEEE Symposium Series on Computational Itelligence, Xiamen China. DEC 2019** [link](https://ieeexplore.ieee.org/abstract/document/9003058)
-2. A design to improve micro-mixers efficiency with a supporting theory on Pseudo-turbulent flows. **Industrial and Engineering Chemistry Journal, SEP 2019** [link](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b05276)
-3. Introducing a problem while working with Heterogenuous platoons and a solution from a Aerodynamic point of View. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
+1. Using Artificial Neural Networks (ANNs) to learn the Governing Navier-Stokes Equations of Fluid flows using Sparse sensor data. **IEEE Symposium Series on Computational Itelligence, Xiamen China. DEC 2019** [link](https://ieeexplore.ieee.org/abstract/document/9003058)
+2. A design to improve micro-mixers efficiency with a supporting theory on Pseudo-turbulent secondary flows. **Industrial and Engineering Chemistry Journal, SEP 2019** [link](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b05276)
+3. Introducing a problem encountered with Heterogenuous platoons and presenting one possible solution. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
 
 Posters.
 1. URS - fluid mixers. <ppt + poste>
