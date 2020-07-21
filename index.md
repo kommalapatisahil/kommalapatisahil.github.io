@@ -6,34 +6,40 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 
 I love biking and hiking around the beautiful Pacific North West.
 
-# Current projects
+# Current projects which keep me busy:
 
-Markov Chain Monte Carlo Analysis to Autmate hairpin vortex Identification in Turbulent Boundary layer flow.
-Model Predictive Control to stabilize the wake of a rotating Cylinder using DMDc.
+1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. I gave a talk reviewing my research. Here is the [PPT]() which I made for it.
+
+2. Using Model Predictive Control to stabilize the wake of a rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link]
 
 <mpc, vortex - lab presetations>
 
-# My Research Online
-Papers.
+# Check out my research published online!
+
+## Papers
 1. Using Artificial Neural Networks (ANNs) to learn the Governing Navier-Stokes Equations of Fluid flows using Sparse sensor data. **IEEE Symposium Series on Computational Itelligence, Xiamen China. DEC 2019** [link](https://ieeexplore.ieee.org/abstract/document/9003058)
 2. A design to improve micro-mixers efficiency with a supporting theory on Pseudo-turbulent secondary flows. **Industrial and Engineering Chemistry Journal, SEP 2019** [link](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b05276)
 3. Introducing a problem encountered with Heterogenuous platoons and presenting one possible solution. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
 
-Posters.
-1. URS - fluid mixers. <ppt + poste>
-2. Vehicle control using Matlab. <poster>
-
+## Posters.
+1. Fluid Mixers at Micro-scale. [PPT]()[Poster]()
+2. Vehicle control using Matlab. [Poster]
+ 
 # Older projects
-1. koopman review for ME 599.
 
+1. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF]()
+2. Here is my review of Koopman Operator theory in continuous spectrum. [PDF]()
 
 # Online activity
 you can find me on medium, youtube.
 this presentation I made to highligh covid and data science. cse 180
 
 # Call for colloborations
-I have a couple of Ideas on which I have been looking for more people to join me.
+I have a couple of Ideas on which I have been looking for more people to join me: 
 
+1. Linearizing fluid flow models using Koopman eigen functions to control flow around a cylinder. Skills: Regression analysis, Koopman Theory, CFD, python, Matlab-MPC toolbox.
+
+2. Using Cellular Automata and Google Colab notebooks to visualize flow data for preparing better notes on introductory Fluid Mechanics. Skills: CUDA, PYTHON, FLUIDS 101. 
 
 If you are Interested any of the above, reach out to me. Or, If it's reevant to my interests, tell me about your ideas and let's bring them to life. Or, just hit me up to talk about Politics and Philisophy! 
 
