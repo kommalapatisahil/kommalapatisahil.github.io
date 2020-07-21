@@ -15,9 +15,9 @@ Model Predictive Control to stabilize the wake of a rotating Cylinder using DMDc
 
 # My Research Online
 Papers.
-1. ANNs for Flow reconstruction. 
-2. Microfluidic mixer using Golden Ratio Spiral.
-3. Optimal positioning algorithm for controlling platoon wake.
+1. Using Artificial Neural Networks (ANNs) to learn the Governing PDE of Fluid flows. [link](https://ieeexplore.ieee.org/abstract/document/9003058)
+2. A design to improve micro-mixers efficiency with a supporting theory on Pseudo-turbulent flows. [link](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b05276)
+3. Introducing a problem while working with Heterogenuous platoons and a solution from a Aerodynamic point of View. [link](https://ieeexplore.ieee.org/document/8715606)
 
 Posters.
 1. URS - fluid mixers. <ppt + poste>
