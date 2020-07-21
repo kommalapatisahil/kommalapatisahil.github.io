@@ -32,7 +32,7 @@ I love biking and hiking around the beautiful Pacific North West.
 
 # More writting online
 
-I truly believe that teaching something is an essential part of learning it. So, in that spirit I have recently picked up the habit writting about things which I find exciting and impactful. I write frequently for Medium, some of the articles are already published but more are comming soon!
+I truly believe that teaching something is an essential part of learning it. So, in that spirit I have recently picked up the habit writting about things which I find exciting and impactful. Check out the links on the left half of this page!
 
 # Call for colloborations
 I have a couple of Ideas on which I have been looking for more people to join me: 
