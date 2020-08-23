@@ -8,7 +8,7 @@ I love biking and hiking around the beautiful Pacific North West.
 
 # I am currently working on the following projects:
 
-1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. I gave a talk about reviewing my research. Here is the [PPT](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx) which I used for it.
+1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. We have recently submitted [this abstract](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/342008.pdf) based on our recent results, to the [APS - DFD 2020](https://dfd2020chicago.org/) conference. For an in-dept overview, here is a [presentation]. (https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx)
 
 2. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link]
 
