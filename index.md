@@ -15,10 +15,10 @@ I love biking and hiking around the beautiful Pacific North West.
 # Selected projects from my previous experiences:
 
 1. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_SE422_Report(2).pdf)
-2. Here is my review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
+2. My review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
 
 
-# Here is a review of my published original research:
+# A review of my published original research:
 
 ## Papers
 1. Using Artificial Neural Networks (ANNs) to learn the Governing Navier-Stokes Equations of Fluid flows using Sparse sensor data. **IEEE Symposium Series on Computational Intelligence, Xiamen China. DEC 2019** [link](https://ieeexplore.ieee.org/abstract/document/9003058)
