@@ -26,13 +26,13 @@ I love biking and hiking around the beautiful Pacific North West.
 3. Introducing a problem encountered with Heterogeneous platoons and presenting one possible solution. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
 
 ## Posters
-1. Fluid Mixers at Micro-scale. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/MEC_URS_2018_Kommalapati_sahil.pdf)
-2. Vehicle control using Matlab. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_MEC_URS_2018.pdf)
+1. Fluid Mixers at Micro-scale. URSMEC 2019. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/MEC_URS_2018_Kommalapati_sahil.pdf)
+2. Vehicle control using Matlab. URSMEC 2019. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_MEC_URS_2018.pdf)
  
 
 # Other works online:
 
-I truly believe that elegant and clear teaching is a skill that is fundamental to the overall learning process and I thoroughly enjoy it. It strengthens my authority and confidence over the specific material and it ultimately nurtures my abilities towards better scientific communication. So, in that spirit, I have recently picked up the habit of writing about things that I find exciting and impactful. Visit my Medium page on the left (or top, if you are on your phone) to check out some of my articles.
+I truly believe that elegant and clear teaching is a skill that is fundamental to the overall learning process and I thoroughly enjoy it. It strengthens my authority and confidence over the specific material and it ultimately nurtures my abilities towards better scientific communication. So, in that spirit, I have picked up the habit of writing about things that I find exciting and impactful. Visit my Medium page on the left (or top, if you are on your phone) to check out some of my articles.
 
 
 # A call for collaborations.
