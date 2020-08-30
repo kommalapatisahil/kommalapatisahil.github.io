@@ -26,8 +26,8 @@ I love biking and hiking around the beautiful Pacific North West.
 3. Introducing a problem encountered with Heterogeneous platoons and presenting one possible solution. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
 
 ## Posters
-1. Fluid Mixers at Micro-scale. URSMEC 2019. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/MEC_URS_2018_Kommalapati_sahil.pdf)
-2. Vehicle control using Matlab. URSMEC 2019. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_MEC_URS_2018.pdf)
+1. Fluid Mixers at Micro-scale. [URSMEC](https://www.mahindraecolecentrale.edu.in/events/annual-rd-showcase-urs-at-mec-2018) 2018. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/MEC_URS_2018_Kommalapati_sahil.pdf)
+2. Vehicle control using Matlab. URSMEC 2018. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_MEC_URS_2018.pdf)
  
 
 # Other works online:
