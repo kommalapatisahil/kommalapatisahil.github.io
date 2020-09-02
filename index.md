@@ -10,7 +10,7 @@ I love biking and hiking around the beautiful Pacific North West.
 
 1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. We have recently submitted [this abstract](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/342008.pdf) based on our recent results, to the [APS - DFD 2020](https://dfd2020chicago.org/) conference. For an in-dept overview, here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
 
-2. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/kommalapatisahil/DMDc_FlowControl)
+2. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
 
 # Selected projects from my previous experiences:
 
