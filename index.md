@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Master's student at the University of Washington (UW), studying Mechanical Engineering. My research is held at the intersection of Artificial Intelligence, Control Theory, and Fluid Mechanics. I am currently a researcher at the [Williams' Laboratory](https://www.williamslaboratory.com/) at the Aerospace department at UW, studying Hairpin structures in Turbulent Boundary layers using Bayesian methods. I was previously a Research Intern at the [Microfluidics Laboratory](https://www.me.iitb.ac.in/~amit.agrawal/) at IIT Bombay. Last quarter, I have also been a TA for Paul Allen school of CSE at UW. 
+I am a Master's student at the University of Washington (UW), studying Mechanical Engineering. My research is held at the intersection of Artificial Intelligence, Control Theory, and Fluid Mechanics. I am currently a researcher at the [Williams' Laboratory](https://www.williamslaboratory.com/) at the Aerospace department at UW, studying Hairpin structures in Turbulent Boundary layers using Bayesian methods. I was previously a Research Intern at the [Microfluidics Laboratory](https://www.me.iitb.ac.in/~amit.agrawal/) at IIT Bombay. Here, is my [Research Gate profile](https://www.researchgate.net/profile/Sahil_Kommalapati). Previously, I have also been a Teaching Assistant for Paul Allen school of CSE at UW. 
 
 I love biking and hiking around the beautiful Pacific North West.
 
