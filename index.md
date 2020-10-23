@@ -7,11 +7,7 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 I love biking and hiking around the beautiful Pacific North West.
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- Check out my latest work presented at the NCMDAO 2020, October. [Video link.](https://www.dropbox.com/s/7ijkt2kl55fh29a/CNN%20architectures%20for%20Industry%204d0%20-%20paper%2070.mp4?dl=0)
 ```
 
 # I am currently working on the following projects:
