@@ -6,6 +6,14 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 
 I love biking and hiking around the beautiful Pacific North West.
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 # I am currently working on the following projects:
 
 1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. We have submitted [this abstract](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/342008.pdf) based on our recent results, to the [APS - DFD 2020](https://dfd2020chicago.org/) conference. For an in-dept overview, here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
