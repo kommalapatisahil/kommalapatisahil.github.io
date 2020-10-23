@@ -7,7 +7,7 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 I love biking and hiking around the beautiful Pacific North West.
 
 ```diff
--Latest news from me! 
+-**Recent updates below!** 
 ```
 My work at the NCMDAO conference on 23rd October, hosted by Vikram Sarabhai Space Center. [Video link.](https://www.dropbox.com/s/7ijkt2kl55fh29a/CNN%20architectures%20for%20Industry%204d0%20-%20paper%2070.mp4?dl=0)
 
