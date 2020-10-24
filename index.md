@@ -6,10 +6,10 @@ I am a Master's student at the University of Washington (UW), studying Mechanica
 
 I love biking and hiking around the beautiful Pacific North West.
 
-**NEW!**
+**NEW!!**
 My work was presented at the NCMDAO conference on 23rd October, 2020 hosted by Vikram Sarabhai Space Center. [Video link.](https://www.dropbox.com/s/7ijkt2kl55fh29a/CNN%20architectures%20for%20Industry%204d0%20-%20paper%2070.mp4?dl=0)
 
-**NEW!**
+**NEW!!**
 My Master's thesis proposal was approved on October 13th, 2020 by the department of Mechanical Engineering, UW. [Link](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/SahilKommalapati_ThesisProposal_final.pdf)
 
 # I am currently working on the following projects:
