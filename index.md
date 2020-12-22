@@ -14,9 +14,9 @@ My work presented at the 2020 NCMDAO conference hosted by **Vikram Sarabhai Spac
 
 Python Workshop hosted by Mechanical Engineering Graduate Students association (MEGA, UW). [Video Link.](https://youtu.be/juLefwbT8Qg)
 
-#Thesis proposal for my Master's degree. [Link.](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/SahilKommalapati_ThesisProposal_final.pdf)
-
 # I am currently working on the following projects:
+
+[MS Thesis proposal Link.](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/SahilKommalapati_ThesisProposal_final.pdf)
 
 1. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
 
