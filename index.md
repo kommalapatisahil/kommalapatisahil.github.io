@@ -2,21 +2,27 @@
 layout: default
 ---
 
-I am a Master's student at the University of Washington (UW), studying Mechanical Engineering. My research is held at the intersection of Artificial Intelligence, Control Theory, and Fluid Mechanics. I am currently a researcher at the [Williams' Laboratory](https://www.williamslaboratory.com/) at the Aerospace department at UW, studying Hairpin structures in Turbulent Boundary layers using Bayesian methods. I was previously a Research Intern at the [Microfluidics Laboratory](https://www.me.iitb.ac.in/~amit.agrawal/) at IIT Bombay. Here, is my [Research Gate profile](https://www.researchgate.net/profile/Sahil_Kommalapati). Previously, I have also been a Teaching Assistant for Paul Allen school of CSE at UW. 
+I am a Herbold Data Science Fellow (2020-2021), currently pursuing my master's in Mechanical Engineering at the University of Washington (UW). I use data science and control theory to study fluid turbulence at the [Williams' Trubulence Lab](https://www.williamslaboratory.com/). 
 
 I love biking and hiking around the beautiful Pacific North West.
 
-**NEW!!**
-My work was presented at the NCMDAO conference on 23rd October, 2020 hosted by **Vikram Sarabhai Space Center**. [Video link.](https://www.dropbox.com/s/7ijkt2kl55fh29a/CNN%20architectures%20for%20Industry%204d0%20-%20paper%2070.mp4?dl=0)
+# Videos featuring my work:
 
-**NEW!!**
-My Master's **thesis proposal** was approved on October 13th, 2020 by the department of Mechanical Engineering, UW. [Link](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/SahilKommalapati_ThesisProposal_final.pdf)
+Talk at 2020 APS-DFD, introducing my thesis research on Bayesian optimization driven coherent structure identification. [Video Link.](https://youtu.be/sseXCqn1wEY)
+
+My work presented at the 2020 NCMDAO conference hosted by **Vikram Sarabhai Space Center**. [Video link.](https://youtu.be/kWGSR07WDAc)
+
+Python Workshop hosted by Mechanical Engineering Graduate Students association (MEGA, UW). [Video Link.](https://youtu.be/juLefwbT8Qg)
+
+#Thesis proposal for my Master's degree. [Link.](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/SahilKommalapati_ThesisProposal_final.pdf)
 
 # I am currently working on the following projects:
 
-1. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. We have submitted [this abstract](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/342008.pdf) based on our recent results, to the [APS - DFD 2020](https://dfd2020chicago.org/) conference. For an in-dept overview, here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
+1. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
 
-2. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
+2. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. Here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
+
+3. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
 
 # Selected projects from my previous experiences:
 
@@ -24,17 +30,9 @@ My Master's **thesis proposal** was approved on October 13th, 2020 by the depart
 2. My review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
 
 
-# A review of my published original research:
+# Published original research:
 
-## Papers
-1. Using Artificial Neural Networks (ANNs) to learn the Governing Navier-Stokes Equations of Fluid flows using Sparse sensor data. **IEEE Symposium Series on Computational Intelligence, Xiamen China. DEC 2019** [link](https://ieeexplore.ieee.org/abstract/document/9003058)
-2. Design to improve micro-mixers efficiency with a supporting theory on Pseudo-turbulent secondary flows. **Industrial and Engineering Chemistry Journal, SEP 2019** [link](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.9b05276)
-3. Introducing a problem encountered with Heterogeneous platoons and presenting one possible solution. **Indian Control Conference, IIT Delhi, JAN 2019** [link](https://ieeexplore.ieee.org/document/8715606)
-
-## Posters
-1. Fluid Mixers at Micro-scale. [URSMEC](https://www.mahindraecolecentrale.edu.in/events/annual-rd-showcase-urs-at-mec-2018) 2018. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/MEC_URS_2018_Kommalapati_sahil.pdf)
-2. Vehicle control using Matlab. URSMEC 2018. [Poster](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_MEC_URS_2018.pdf)
- 
+Check out my [Google Scholar](https://scholar.google.co.in/citations?user=QqqnDkYAAAAJ&hl=en) or reach out on [ResearchGate](https://www.researchgate.net/profile/Sahil_Kommalapati). 
 
 # Other works online:
 
