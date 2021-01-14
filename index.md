@@ -10,9 +10,9 @@ I love biking and hiking around the beautiful Pacific North West.
 
 Talk at 2020 APS-DFD, introducing my thesis research on Bayesian optimization driven coherent structure identification. [Video Link.](https://youtu.be/sseXCqn1wEY)
 
-My work presented at the 2020 NCMDAO conference hosted by **Vikram Sarabhai Space Center**. [Video link.](https://youtu.be/kWGSR07WDAc)
+Research presented at the 2020 NCMDAO conference hosted by **Vikram Sarabhai Space Center**. [Video link.](https://youtu.be/kWGSR07WDAc)
 
-Python Workshop hosted by Mechanical Engineering Graduate Students association (MEGA, UW). [Video Link.](https://youtu.be/juLefwbT8Qg)
+My Lectures for the Workshop series on Machine Learning in association with Mechanical Engineering Graduate Students association (MEGA, UW). [Playlist Link.](https://www.youtube.com/playlist?list=PLRalIFez3W3PBiU112043QkkEXsMFTHNz)
 
 # I am currently working on the following projects:
 
