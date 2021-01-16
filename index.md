@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a Herbold Data Science Fellow (2020-2021), currently pursuing my master's in Mechanical Engineering at the University of Washington (UW). I use data science and control theory to study fluid turbulence at the [Williams' Trubulence Lab](https://www.williamslaboratory.com/). 
+I am a [Herbold Data Science Fellow](https://www.williamslaboratory.com/news/sahil-kommalapati-wins-herbold-data-science-fellowship) (2020-2021), currently pursuing my master's in Mechanical Engineering at the University of Washington (UW). I use data science and control theory to study fluid turbulence at the [Williams' Trubulence Lab](https://www.williamslaboratory.com/). 
 
 I love biking and hiking around the beautiful Pacific North West.
 
