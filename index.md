@@ -16,7 +16,7 @@ My Lectures for the Workshop series on Machine Learning in association with Mech
 
 # I am currently working on the following projects:
 
-[MS Thesis proposal Link.](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/SahilKommalapati_ThesisProposal_final.pdf)
+[MS Thesis on "Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows.](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing)
 
 1. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
 
