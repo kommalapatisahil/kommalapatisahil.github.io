@@ -28,25 +28,23 @@ For datasets or codes used in my work, my resume or other inquiries, please cont
 
 # Videos featuring my work:
 
-Talk at 2020 APS-DFD, introducing my thesis research on Bayesian optimization driven coherent structure identification. [Video Link.](https://youtu.be/sseXCqn1wEY)
+3. Talk at 2020 APS-DFD, introducing my thesis research on Bayesian optimization driven coherent structure identification. [Video Link.](https://youtu.be/sseXCqn1wEY)
 
-Research presented at the 2020 NCMDAO conference hosted by Vikram Sarabhai Space Center. [Video link.](https://youtu.be/kWGSR07WDAc)
+2. Research presented at the 2020 NCMDAO conference hosted by Vikram Sarabhai Space Center. [Video link.](https://youtu.be/kWGSR07WDAc)
 
-My Lectures for the Workshop series on Machine Learning in association with Mechanical Engineering Graduate Students association (MEGA, UW). [Playlist Link.](https://www.youtube.com/playlist?list=PLRalIFez3W3PBiU112043QkkEXsMFTHNz)
+1. My Lectures for the Workshop series on Machine Learning in association with Mechanical Engineering Graduate Students association (MEGA, UW). [Playlist Link.](https://www.youtube.com/playlist?list=PLRalIFez3W3PBiU112043QkkEXsMFTHNz)
 
 # Selected projects from my previous experiences:
 
-1. [MS Thesis on "Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows".](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing)
+5. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
 
-2. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
+4. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. Here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
 
-3. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. Here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
+3. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
 
-4. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
+2. My review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
 
-5. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_SE422_Report(2).pdf)
-
-6. My review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
+1. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_SE422_Report(2).pdf)
 
 
 # Published original research:
@@ -62,9 +60,9 @@ I truly believe that elegant and clear teaching is a skill that is fundamental t
 
 I believe that the following ideas would be quite challenging to pursue independently. Please reach out to me if you find them relevant to your interests so that we can join forces and work together!
 
-1. Linearizing fluid flow models using Koopman eigenfunctions to control wake shedding around a cylinder. Skills: Deep Learning, Koopman Operator Theory, CFD, python, Matlab-MPC toolbox.
+2. Linearizing fluid flow models using Koopman eigenfunctions to control wake shedding around a cylinder. Skills: Deep Learning, Koopman Operator Theory, CFD, python, Matlab-MPC toolbox.
 
-2. Using Cellular Automata and Google Colab notebooks to visualize flow scenarios and prepare engaging notes on introductory Fluid Mechanics. Skills: CUDA, PYTHON, FLUIDS 101.  
+1. Using Cellular Automata and Google Colab notebooks to visualize flow scenarios and prepare immersive lecture material on introductory Fluid Mechanics. Skills: CUDA, PYTHON, FLUIDS 101.  
 
 
 website theme by [orderedlist](https://github.com/orderedlist).
