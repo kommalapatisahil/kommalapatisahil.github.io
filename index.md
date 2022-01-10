@@ -8,7 +8,7 @@ I am a predoctoral researcher at Argonne National Labortory currently working on
 
 I received my master's in Mechanical Engineering from the University of Washington (UW) and a Bachelor's degree in Mechanical Engineering from Mahindra Ecole Cetrale (MEC).
 
-For Datasets or Codes of my woks please contact me through email at ksahil(at)uw(dot)edu. 
+For datasets or codes used in my work, my resume or other inquiries, please contact me through this email: ksahil(at)uw(dot)edu. 
 
 # Videos featuring my work:
 
