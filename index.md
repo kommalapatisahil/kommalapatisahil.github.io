@@ -14,7 +14,7 @@ For datasets or codes used in my work, my resume or other inquiries, please cont
 
 [Nov 2021] I joined Argonne National Laboratory as a Predoctoral Researcher in Machine Learning.
 
-[Jun 2021] I defended my MS thesis on ["Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows".](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing) and graduated from the University of Washington. 
+[Jun 2021] I defended my MS thesis on ["Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows"](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing) and graduated from the University of Washington. 
 
 [May 2021] I joined Telepath AI as a Data Science Research Fellow. 
 
