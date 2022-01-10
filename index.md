@@ -10,6 +10,10 @@ I received my master's in Mechanical Engineering from the University of Washingt
 
 For datasets or codes used in my work, my resume or other inquiries, please contact me through this email: ksahil(at)uw(dot)edu. 
 
+# News
+
+[Nov 2021] I joined Argonne National as a Predoctoral Researcher in Machine Learning.  
+
 # Videos featuring my work:
 
 Talk at 2020 APS-DFD, introducing my thesis research on Bayesian optimization driven coherent structure identification. [Video Link.](https://youtu.be/sseXCqn1wEY)
