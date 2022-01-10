@@ -2,32 +2,35 @@
 layout: default
 ---
 
-I am a [Herbold Data Science Fellow](https://www.williamslaboratory.com/news/sahil-kommalapati-wins-herbold-data-science-fellowship) (2020-2021), currently pursuing my master's in Mechanical Engineering at the University of Washington (UW). I use data science and control theory to study fluid turbulence at the [Williams' Trubulence Lab](https://www.williamslaboratory.com/). 
+Hello!
 
-%I love biking and hiking around the beautiful Pacific North West.
+I am a predoctoral researcher at Argonne National Labortory currently working on developing Reinforcement Learning based Optimization algorithms at the [Multi-physics commputation group](https://www.anl.gov/es/multiphysics-computation) in the Energy Systems division. 
+
+I received my master's in Mechanical Engineering from the University of Washington (UW) and a Bachelor's degree in Mechanical Engineering from Mahindra Ecole Cetrale (MEC).
+
+For Datasets or Codes of my woks please contact through email at ksahil(at)uw(dot)edu
 
 # Videos featuring my work:
 
 Talk at 2020 APS-DFD, introducing my thesis research on Bayesian optimization driven coherent structure identification. [Video Link.](https://youtu.be/sseXCqn1wEY)
 
-Research presented at the 2020 NCMDAO conference hosted by **Vikram Sarabhai Space Center**. [Video link.](https://youtu.be/kWGSR07WDAc)
+Research presented at the 2020 NCMDAO conference hosted by Vikram Sarabhai Space Center. [Video link.](https://youtu.be/kWGSR07WDAc)
 
 My Lectures for the Workshop series on Machine Learning in association with Mechanical Engineering Graduate Students association (MEGA, UW). [Playlist Link.](https://www.youtube.com/playlist?list=PLRalIFez3W3PBiU112043QkkEXsMFTHNz)
 
-# I am currently working on the following projects:
-
-[MS Thesis on "Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows".](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing)
-
-1. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
-
-2. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. Here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
-
-3. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
-
 # Selected projects from my previous experiences:
 
-1. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_SE422_Report(2).pdf)
-2. My review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
+1. [MS Thesis on "Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows".](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing)
+
+2. Super-resolution of turbulent particle Image velocimetry datasets using Machine learning. [GitHub Link.](https://github.com/kommalapatisahil/superResolution)
+
+3. Using Bayesian Analysis to identify coherent structures in Turbulent boundary layer data. Here is a [presentation](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/OwenLabPPT_5_27.pptx).
+
+4. Using Model Predictive Control to stabilize the wake of a Rotating Cylinder. We are using Dynamic Mode Decomposition (with control) to linearize the flow model.[Github Link ](https://github.com/WannaBePhysicists/DMDc)
+
+5. My Bachelor's thesis on the stability and Control of an Intercontinental Ballistic Missile. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/Sahil_Kommalapati_SE422_Report(2).pdf)
+
+6. My review of the Koopman Operator theory for systems in the continuous spectrum. [PDF](https://github.com/kommalapatisahil/kommalapatisahil.github.io/blob/master/files/ME599_Lusch2018_1926528(3).pdf)
 
 
 # Published original research:
