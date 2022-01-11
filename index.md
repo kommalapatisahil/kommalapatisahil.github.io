@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 
-I am a predoctoral researcher at Argonne National Labortory currently working on developing Reinforcement Learning based Optimization algorithms at the [Multi-physics commputation group](https://www.anl.gov/es/multiphysics-computation) in the Energy Systems division. 
+I am a predoctoral researcher at Argonne National Labortory currently working on developing Reinforcement Learning based Optimization algorithms at the [Multi-physics computation group](https://www.anl.gov/es/multiphysics-computation) in the Energy Systems division. 
 
 I received my master's in Mechanical Engineering from the University of Washington (UW) and a Bachelor's degree in Mechanical Engineering from Mahindra Ecole Cetrale (MEC).
 
