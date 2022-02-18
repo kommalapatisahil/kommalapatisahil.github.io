@@ -6,7 +6,7 @@ Hello!
 
 I am a predoctoral researcher at Argonne National Labortory currently working on developing Reinforcement Learning based Optimization algorithms at the [Multi-physics computation group](https://www.anl.gov/es/multiphysics-computation) in the Energy Systems division. 
 
-I received my master's degree in Mechanical Engineering from the University of Washington (UW) and my Bachelor's degree in Mechanical Engineering from Mahindra Ecole Centrale (MEC).
+I received my Master's degree in Mechanical Engineering from the University of Washington (UW) and my Bachelor's degree in Mechanical Engineering from Mahindra Ecole Centrale (MEC).
 
 For datasets or codes used in my work, my resume or other inquiries, please contact me through this email: ksahil(at)uw(dot)edu. 
 
