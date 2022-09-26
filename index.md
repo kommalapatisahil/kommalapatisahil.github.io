@@ -18,7 +18,7 @@ For datasets or codes used in my work, my resume or other inquiries, please cont
 
 [Jun 2021] I graduated from the University of Washington with an MS in Mechanical Engineering. 
 
-[Jun 2021] I defended my MS thesis on ["Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows".](https://drive.google.com/file/d/1h4_qIGupWNuO1_0t5gxtnd7SPjFznG6L/view?usp=sharing)
+[Jun 2021] I defended my MS thesis on ["Machine Learning for Coherent Structure Identification and Super Resolution of Turbulent flows".](https://www.proquest.com/openview/0dcde3640731d3f24407aeeafcea68b8/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 [Dec 2020] I received the [Herbold Data Science Fellowhip](https://www.williamslaboratory.com/news/sahil-kommalapati-wins-herbold-data-science-fellowship).
 
