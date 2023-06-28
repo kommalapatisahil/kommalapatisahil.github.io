@@ -5,7 +5,7 @@ Hello!
 
 I'm a Ph.D. student at the University of Texas at Austin, where I'm advised by Prof. Robert Moser. I work at the intersection of Fluid Turbulence and Machine Learning. I'm also a student researcher at [Google](https://research.google/) researching physics-based deep learning approaches for improving weather predictions. 
 
-For datasets or codes used in my work, my resume or other inquiries, please contact me through this email: ksahil(at)uw(dot)edu. 
+For datasets or codes used in my work, my resume, or other inquiries, reach out through LinkedIn! 
 
 # News
 [Jun 2023] I joined Google as a Student Researcher!
