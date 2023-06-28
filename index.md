@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-
 Hello!
 
-I am a predoctoral researcher at Argonne National Labortory currently working on developing Reinforcement Learning based Optimization algorithms at the [Multi-physics computation group](https://www.anl.gov/es/multiphysics-computation) in the Energy Systems division. 
-
-I received my Master's degree in Mechanical Engineering from the University of Washington (UW) and my Bachelor's degree in Mechanical Engineering from Mahindra Ecole Centrale (MEC).
+I'm a Ph.D. student at the University of Texas at Austin, where I'm advised by Prof. Robert Moser. I work at the intersection of Fluid Turbulence and Machine Learning. I'm also a student researcher at [Google](https://research.google/) researching physics-based deep learning approaches for improving weather predictions. 
 
 For datasets or codes used in my work, my resume or other inquiries, please contact me through this email: ksahil(at)uw(dot)edu. 
 
 # News
+[Jun 2023] I joined Google as a Student Researcher!
+
+[Aug 2022] I joined UT Austin to begin my PhD in ME 🥳🥳
 
 [Nov 2021] I joined Argonne National Laboratory as a Predoctoral Researcher in Machine Learning.
 
