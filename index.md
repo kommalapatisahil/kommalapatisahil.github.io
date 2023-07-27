@@ -5,7 +5,7 @@ Hello!
 
 I'm a Ph.D. student at the University of Texas at Austin, where I'm advised by Prof. Robert Moser. I work at the intersection of Fluid Turbulence and Machine Learning. I'm also a student researcher at [Google](https://research.google/) researching physics-based deep learning approaches for improving weather predictions. 
 
-For datasets or codes used in my work, my resume, or other inquiries, reach out through LinkedIn! 
+If you are looking to work under my guidance for your undergraduate or graduate projects, connect with me over LinkedIn! 
 
 # News
 [Jun 2023] I joined Google as a Student Researcher!
@@ -54,15 +54,6 @@ Check out my [Google Scholar](https://scholar.google.co.in/citations?user=QqqnDk
 # Other works online:
 
 I truly believe that elegant and clear teaching is a skill that is fundamental to the overall learning process and I thoroughly enjoy it. It strengthens my authority and confidence over the specific material and it ultimately nurtures my abilities towards better scientific communication. So, in that spirit, I have picked up the habit of writing about things that I find exciting and impactful. Visit my Medium page on the left (or top, if you are on your phone) to check out some of my articles.
-
-
-# A call for collaborations.
-
-I believe that the following ideas would be quite challenging to pursue independently. Please reach out to me if you find them relevant to your interests so that we can join forces and work together!
-
-1. Linearizing fluid flow models using Koopman eigenfunctions to control wake shedding around a cylinder. Skills: Deep Learning, Koopman Operator Theory, CFD, python, Matlab-MPC toolbox.
-
-2. Using Cellular Automata and Google Colab notebooks to visualize flow scenarios and prepare immersive lecture material on introductory Fluid Mechanics. Skills: CUDA, PYTHON, FLUIDS 101.  
 
 
 website theme by [orderedlist](https://github.com/orderedlist).
