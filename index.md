@@ -3,7 +3,7 @@ layout: default
 ---
 Hello!
 
-I'm a Ph.D. student at the University of Texas at Austin, where I'm advised by Prof. Robert Moser. I work at the intersection of Fluid Turbulence and Machine Learning. I'm also a student researcher at [Google](https://research.google/) researching physics-based deep learning approaches for improving weather predictions. 
+I'm a Ph.D. student at the University of Texas at Austin, where I'm advised by Prof. Robert Moser. I work at the intersection of Fluid Turbulence and Machine Learning. I was previously a student researcher at [Google](https://research.google/) where I worked on physics-based deep learning approaches for improving weather predictions. Before that, I was a Machine Learning predoc at [Argonne National Laboratory](https://www.anl.gov/) where I worked on developing uncertainty quantification methods for deep nerual networks with a focus on physics predictions. 
 
 If you are looking to work under my guidance for your undergraduate or graduate projects, connect with me over LinkedIn! 
 
