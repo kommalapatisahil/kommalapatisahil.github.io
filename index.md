@@ -8,6 +8,12 @@ I'm a Ph.D. student at the University of Texas at Austin, where I'm advised by P
 If you are looking to work under my guidance for your undergraduate or graduate projects, connect with me over LinkedIn! 
 
 # News
+[Nov 2024] Talk at [Oden Student forum](https://oden.utexas.edu/news-and-events/events/2010---Sahil%20Kommalpati/). 
+
+[Nov 2024] Talk at APS-DFD 2024. [Abstract](https://meetings.aps.org/Meeting/DFD24/Session/X39.4). Salt Lake City, UT. 
+
+[Nov 2023] Talk at APS-DFD 2023. [Abstract](https://meetings.aps.org/Meeting/DFD23/Session/T02.2). Washington, D.C.
+
 [Jun 2023] I joined Google as a Student Researcher!
 
 [Aug 2022] I joined UT Austin to begin my PhD in ME 🥳🥳
